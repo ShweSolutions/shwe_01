@@ -16,7 +16,7 @@ namespace ShweStock
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMain1());
+            Application.Run(new frmLogin());
         }
     }
 }
