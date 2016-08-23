@@ -17,3 +17,6 @@ D:\MZ\Project\ShweStock\ShweStock\ShweStock\bin\Debug\MTGCCombobox.dll
 D:\MZ\Project\ShweStock\ShweStock\ShweStock\bin\Debug\MTGCCombobox.xml
 D:\MZ\Project\ShweStock\ShweStock\ShweStock\obj\Debug\ShweStock.exe
 D:\MZ\Project\ShweStock\ShweStock\ShweStock\obj\Debug\ShweStock.pdb
+D:\MZ\Projects\Shwe Solutions\shwe_01\ShweStock\ShweStock\bin\Debug\ShweStock.exe.config
+D:\MZ\Projects\Shwe Solutions\shwe_01\ShweStock\ShweStock\obj\Debug\ShweStock.exe
+D:\MZ\Projects\Shwe Solutions\shwe_01\ShweStock\ShweStock\obj\Debug\ShweStock.pdb
